@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nCBrJEuRVmqkly8bHcYh+5hL1xIk1nWR1X3fq6LRYWAiutTWVoZOHOAPYQdRJF76EzC3IZa6Xh6e8Z9q8bKtFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ggf01\\Documents\\Other\\Permutations\\Permutations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ggf01\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\ggf01\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
