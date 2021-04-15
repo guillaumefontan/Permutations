@@ -1,0 +1,7 @@
+C:\Users\ggf01\Documents\Other\Permutations\bin\Release\net5.0\publish\Permutations.exe
+C:\Users\ggf01\Documents\Other\Permutations\bin\Release\net5.0\publish\Permutations.dll
+C:\Users\ggf01\Documents\Other\Permutations\bin\Release\net5.0\publish\Permutations.deps.json
+C:\Users\ggf01\Documents\Other\Permutations\bin\Release\net5.0\publish\Permutations.runtimeconfig.json
+C:\Users\ggf01\Documents\Other\Permutations\bin\Release\net5.0\publish\Permutations.pdb
+C:\Users\ggf01\Documents\Other\Permutations\bin\Release\net5.0\publish\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ggf01\Documents\Other\Permutations\bin\Release\net5.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
